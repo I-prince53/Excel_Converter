@@ -1,4 +1,4 @@
-<img width="1559" height="518" alt="image" src="https://github.com/user-attachments/assets/040e5f82-51ed-496c-8ff2-a3bcce40ac03" />
+<img width="1234" height="804" alt="image" src="https://github.com/user-attachments/assets/63386bea-79cb-430b-986f-06d9533a839b" />
 
 # Retail Sales Data ETL & Automation (Pandas)
 Project Overview
